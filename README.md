@@ -1,2 +1,2 @@
 # Days-To-Go
-Using pyhton date time module the program calculates the remaining days, hours, minutes, seconds until the event that is entered by the user. 
+pyhton datetime module is used to create this project. Here user can enter the date of an event that is going to happen in the future. The program will claculate the  days, hours, minutes and seconds remaining for that event to happen from the current time. 
